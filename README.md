@@ -12,3 +12,4 @@ Daily small progress to build consistency and fundaments
  one small improvement every day 
  no bacfilling missed days 
  clarity > complexity
+  THIS IS DAY 2 of my journy and i am trying to make a big chnage day by day but Today i have been kinda lazy 
