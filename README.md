@@ -13,3 +13,4 @@ Daily small progress to build consistency and fundaments
  no bacfilling missed days 
  clarity > complexity
 So this is day 2 AND I LEARD THAT GITHub streak does not mean skill kind of ovious but that is what my real me tought or valued
+today is jan 5 and i am trying to create a mark down file and connect to obsidan and google ai studo api key for me to study to and use few pytone code to bring it to life and If all thins worked out i will use this to not only study my uni course but also other skills i want to master too and may be even push it if it valuable enough  
